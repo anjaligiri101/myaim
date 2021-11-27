@@ -1,0 +1,11 @@
+Maven:
+	Maven is software project management tool/built automation tool.
+	Maven use to manage depenepdancies(jar files).
+	Dependancies are managed thorough pom.xml
+Project object module:
+	It is xml file that contains information about project and configuration details.
+	Maven stores all all project jar, Library, in local repository or in remote repository also.
+	Maven downloads dependency jar from central repository that mvn repository.
+	Downloaded jar files are stored in local repository .m2 file.
+	Maven strongly use for java project.
+	Maven project Is having standard directory structure.
