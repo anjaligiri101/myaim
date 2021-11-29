@@ -1,0 +1,16 @@
+Abstract CLass:
+-	A class declare with keyword “abstract ”is known as abstract class
+-	Abstract is nothing but combination of Complete as well as Incomplete methods
+-	 Incomplete method is method where declaration will present and definition will be absent.
+ 
+-	We cannot create object of abstract class.
+-	Programer can decalare incomplete method as as abstract method by declaring keyword abstract infront of incomplete method.
+Ex:
+// abstract is combination of complete as we as Incomplete method
+abstract class Test 
+{
+	
+	//Complete method : method defination and method declaration
+	public void sample() 						
+	{
+		System.out.println("complete method ");
