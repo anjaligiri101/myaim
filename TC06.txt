@@ -1,0 +1,18 @@
+Automation Module: 
+1. Login functionality : Automation
+2. BUY AND SELL Module : Automation
+3. Dashboard
+4. Holding
+5. orders
+6. Adminstration
+7. Fund
+ 
+
+Test Matrix: 
+INFY
+CIPLA
+BANK-SBI
+HardWare-
+Logestic
+
+
